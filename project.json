@@ -1,0 +1,19 @@
+{
+  "title": "Xenosaga Episode I: Der Wille zur Macht",
+  "platform": "PS2",
+  "platform_long": "PlayStation 2",
+  "game_version": "USA (SLUS-20469)",
+  "translated_from": "Inglés oficial",
+  "untranslated": "",
+  "owner": "Monolith Soft",
+  "tagline": "Un RPG de ciencia ficción en el que la humanidad, dispersa por la galaxia, enfrenta a los Gnosis.",
+  "requirements": "",
+  "install": [],
+  "downloads": [],
+  "art": {
+    "cover": "art/cover.jpg",
+    "wide": "art/wide.jpg",
+    "card": "cover",
+    "fill": ""
+  }
+}

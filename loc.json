@@ -1,0 +1,24 @@
+{
+  "name": "xenosaga-episode-i",
+  "source_language": "en",
+  "target_language": "es",
+  "source": "../local/xenosaga-episode-i/source.jsonl",
+  "translation": "translation",
+  "work": "build/work/batches",
+  "sections": [
+    {
+      "name": "Interfaz",
+      "prefixes": []
+    }
+  ],
+  "excluded": [],
+  "codes": [
+    "\\{[^{}]*\\}",
+    "%[-+0-9.]*[sdifxXu]"
+  ],
+  "fixed_break": null,
+  "encoding": "utf-8",
+  "spanish_checks": true,
+  "hooks": null,
+  "support": null
+}
